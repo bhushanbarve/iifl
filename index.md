@@ -11,6 +11,9 @@ published: true
 
 My name is Bhushan Barve and I can be of your assitance to invest your money. I work in association with IIFL securities and I specialise in mutual funds. I can help you to navigate the world of mutual funds and make informed investment decisions. 
 
+<center>
+  <img src="/assets/images/confused.png" width="200"/>
+</center>
 
 Mutual funds are a popular and versatile investment option that can be suitable for a wide range of investors. They allow you to pool your money with other investors and invest in a diversified portfolio of stocks, bonds, and other securities. I can assist you to choose the right funds to meet your investment goals as per your risk tolerance.
 
