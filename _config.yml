@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Bhushan Barve
+description: Financial Consultant | IIFL Securities
 
-baseurl: "/iifl" #name of GitHub repository
+baseurl: "/" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: "bhushan_barve@hotmail.com"
 
