@@ -10,7 +10,7 @@ published: true
 <h3>Looking for a financial consultant with a special expertise in mutual funds? Look no further!</h3>  
 
 
-My name is Bhushan Barve and I can be of your assitance to invest your money. I work in association with IIFL securities and I specialise in mutual funds. I can help you to navigate the world of mutual funds and make informed investment decisions.  
+My name is Bhushan Barve and I can be of your assitance to invest your money. I work in association with IIFL securities and I specialise in mutual funds. I provide financial consulting services, opening DMAT/Stock trading accounts and stock market and mutual fund investing advice.I can help you to navigate the world of mutual funds and stock market enabling you to make informed investment decisions.  
 
 
 <center>
