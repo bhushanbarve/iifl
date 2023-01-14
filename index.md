@@ -35,7 +35,7 @@ Mr. Bhushan Barve
 
 Phone: <a href="tel:+917218347165">+91-7218347165</a>  
 
-<a aria-label="Chat on WhatsApp" href="https://wa.me/917218347165"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg" />
+<a aria-label="Chat on WhatsApp" href="https://wa.me/917218347165"> <img alt="Chat on WhatsApp" src="assets/images/WhatsAppButtonGreenMedium.png" />
 
 Email: <a href="mailto:bhushan_barve@hotmail.com">bhushan_barve@hotmail.com</a>  
 
